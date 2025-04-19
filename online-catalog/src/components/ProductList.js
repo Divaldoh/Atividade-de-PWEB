@@ -59,6 +59,20 @@ const ProductList = () => {
       description: `Os Óculos de sol polarizados que protegem seus olhos com estilo.`,
       price: "R$ 120,00",
       image: "/images/oculos.jpg",
+    }, 
+{
+    id: 9,
+    productName: "Regata de basquete",
+    description: `Camiseta leve e respirável, ideal para treinos e jogos, com design inspirado nos grandes times de basquete.`,
+    price: "R$ 120,00",
+    image: "/images/regata.jpg",
+  },
+{
+    id: 10,
+      productName: "Munhequeira Esportiva",
+      description: `Munhequeira de alta absorção de suor, ideal para treinos e jogos intensos, proporcionando conforto e estilo.`,
+      price: "R$ 50,00",
+      image: "/images/munhequeira.jpg",
     },
   ];
 
